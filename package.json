@@ -24,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:rexxars/react-chess.git"
+    "url": "git@github.com:Alibek10599/chessboard-with-React.git"
   },
-  "homepage": "https://rexxars.github.io/react-chess/",
+  "homepage": "https://Alibek.github.io/react-chess/",
   "author": "Espen Hovlandsdal <espen@hovlandsdal.com>",
   "license": "MIT",
   "gh-pages-deploy": {
